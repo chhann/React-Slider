@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.slick-dots {
+  bottom: 25px;
+}
+
+.img_wrap{
+  width: 500px;
+  height: 375px;
+  overflow: hidden;
+}
+
+.slick-slide img{
+  margin: 0 auto;
+}
+
+.iicon{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.slick-list {
+  margin: 10px 100px;
+}
